@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="UnitTest1.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Remove="SampleJSON\invalid_JSON.txt" />
     <None Remove="valid_JSON.txt" />
   </ItemGroup>
