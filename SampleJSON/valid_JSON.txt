@@ -1,0 +1,337 @@
+﻿{
+  "termsOfUse": "https://www.ryanair.com/ie/en/corporate/terms-of-use=AGREED",
+  "currency": "GBP",
+  "currPrecision": 2,
+  "trips": [
+    {
+      "origin": "STN",
+      "originName": "London (Stansted)",
+      "destination": "CGN",
+      "destinationName": "Cologne (Bonn)",
+      "dates": [
+        {
+          "dateOut": "2019-07-18T00:00:00",
+          "flights": [
+            {
+              "faresLeft": 0,
+              "flightKey": "FR~2814~ ~~STN~07/18/2019 07:40~CGN~07/18/2019 10:05~~",
+              "infantsLeft": 17,
+              "operatedBy": "Malta Air",
+              "segments": [
+                {
+                  "segmentNr": 0,
+                  "origin": "STN",
+                  "destination": "CGN",
+                  "flightNumber": "FR 2814",
+                  "time": [
+                    "2019-07-18T07:40:00",
+                    "2019-07-18T10:05:00"
+                  ],
+                  "timeUTC": [
+                    "2019-07-18T06:40:00Z",
+                    "2019-07-18T08:05:00Z"
+                  ],
+                  "duration": "01:25"
+                }
+              ],
+              "flightNumber": "FR 2814",
+              "time": [
+                "2019-07-18T07:40:00",
+                "2019-07-18T10:05:00"
+              ],
+              "timeUTC": [
+                "2019-07-18T06:40:00Z",
+                "2019-07-18T08:05:00Z"
+              ],
+              "duration": "01:25"
+            },
+            {
+              "faresLeft": 3,
+              "flightKey": "FR~2352~ ~~STN~07/18/2019 15:05~CGN~07/18/2019 17:30~~",
+              "infantsLeft": 15,
+              "regularFare": {
+                "fareKey": "0~Q~ ~FR~QZ4LOW~BND4~~0~1~~X",
+                "fareClass": "Q",
+                "fares": [
+                  {
+                    "type": "ADT",
+                    "amount": 171.35,
+                    "count": 1,
+                    "hasDiscount": false,
+                    "publishedFare": 171.35,
+                    "discountInPercent": 0,
+                    "hasPromoDiscount": false
+                  }
+                ]
+              },
+              "operatedBy": "Ryanair UK",
+              "segments": [
+                {
+                  "segmentNr": 0,
+                  "origin": "STN",
+                  "destination": "CGN",
+                  "flightNumber": "FR 2352",
+                  "time": [
+                    "2019-07-18T15:05:00",
+                    "2019-07-18T17:30:00"
+                  ],
+                  "timeUTC": [
+                    "2019-07-18T14:05:00Z",
+                    "2019-07-18T15:30:00Z"
+                  ],
+                  "duration": "01:25"
+                }
+              ],
+              "flightNumber": "FR 2352",
+              "time": [
+                "2019-07-18T15:05:00",
+                "2019-07-18T17:30:00"
+              ],
+              "timeUTC": [
+                "2019-07-18T14:05:00Z",
+                "2019-07-18T15:30:00Z"
+              ],
+              "duration": "01:25"
+            },
+            {
+              "faresLeft": 2,
+              "flightKey": "FR~2816~ ~~STN~07/18/2019 19:20~CGN~07/18/2019 21:45~~",
+              "infantsLeft": 18,
+              "regularFare": {
+                "fareKey": "0~B~ ~FR~BZ4LOW~BND4~~0~1~~X",
+                "fareClass": "B",
+                "fares": [
+                  {
+                    "type": "ADT",
+                    "amount": 140.75,
+                    "count": 1,
+                    "hasDiscount": false,
+                    "publishedFare": 140.75,
+                    "discountInPercent": 0,
+                    "hasPromoDiscount": false
+                  }
+                ]
+              },
+              "operatedBy": "",
+              "segments": [
+                {
+                  "segmentNr": 0,
+                  "origin": "STN",
+                  "destination": "CGN",
+                  "flightNumber": "FR 2816",
+                  "time": [
+                    "2019-07-18T19:20:00",
+                    "2019-07-18T21:45:00"
+                  ],
+                  "timeUTC": [
+                    "2019-07-18T18:20:00Z",
+                    "2019-07-18T19:45:00Z"
+                  ],
+                  "duration": "01:25"
+                }
+              ],
+              "flightNumber": "FR 2816",
+              "time": [
+                "2019-07-18T19:20:00",
+                "2019-07-18T21:45:00"
+              ],
+              "timeUTC": [
+                "2019-07-18T18:20:00Z",
+                "2019-07-18T19:45:00Z"
+              ],
+              "duration": "01:25"
+            }
+          ]
+        },
+        {
+          "dateOut": "2019-07-19T00:00:00",
+          "flights": [
+            {
+              "faresLeft": 3,
+              "flightKey": "FR~2814~ ~~STN~07/19/2019 07:40~CGN~07/19/2019 10:05~~",
+              "infantsLeft": 17,
+              "regularFare": {
+                "fareKey": "0~Q~ ~FR~QZ4LOW~BND4~~0~1~~X",
+                "fareClass": "Q",
+                "fares": [
+                  {
+                    "type": "ADT",
+                    "amount": 171.35,
+                    "count": 1,
+                    "hasDiscount": false,
+                    "publishedFare": 171.35,
+                    "discountInPercent": 0,
+                    "hasPromoDiscount": false
+                  }
+                ]
+              },
+              "operatedBy": "Malta Air",
+              "segments": [
+                {
+                  "segmentNr": 0,
+                  "origin": "STN",
+                  "destination": "CGN",
+                  "flightNumber": "FR 2814",
+                  "time": [
+                    "2019-07-19T07:40:00",
+                    "2019-07-19T10:05:00"
+                  ],
+                  "timeUTC": [
+                    "2019-07-19T06:40:00Z",
+                    "2019-07-19T08:05:00Z"
+                  ],
+                  "duration": "01:25"
+                }
+              ],
+              "flightNumber": "FR 2814",
+              "time": [
+                "2019-07-19T07:40:00",
+                "2019-07-19T10:05:00"
+              ],
+              "timeUTC": [
+                "2019-07-19T06:40:00Z",
+                "2019-07-19T08:05:00Z"
+              ],
+              "duration": "01:25"
+            },
+            {
+              "faresLeft": 1,
+              "flightKey": "FR~2352~ ~~STN~07/19/2019 14:20~CGN~07/19/2019 16:45~~",
+              "infantsLeft": 18,
+              "regularFare": {
+                "fareKey": "0~Q~ ~FR~QZ4LOW~BND4~~0~1~~X",
+                "fareClass": "Q",
+                "fares": [
+                  {
+                    "type": "ADT",
+                    "amount": 171.35,
+                    "count": 1,
+                    "hasDiscount": false,
+                    "publishedFare": 171.35,
+                    "discountInPercent": 0,
+                    "hasPromoDiscount": false
+                  }
+                ]
+              },
+              "operatedBy": "",
+              "segments": [
+                {
+                  "segmentNr": 0,
+                  "origin": "STN",
+                  "destination": "CGN",
+                  "flightNumber": "FR 2352",
+                  "time": [
+                    "2019-07-19T14:20:00",
+                    "2019-07-19T16:45:00"
+                  ],
+                  "timeUTC": [
+                    "2019-07-19T13:20:00Z",
+                    "2019-07-19T14:45:00Z"
+                  ],
+                  "duration": "01:25"
+                }
+              ],
+              "flightNumber": "FR 2352",
+              "time": [
+                "2019-07-19T14:20:00",
+                "2019-07-19T16:45:00"
+              ],
+              "timeUTC": [
+                "2019-07-19T13:20:00Z",
+                "2019-07-19T14:45:00Z"
+              ],
+              "duration": "01:25"
+            },
+            {
+              "faresLeft": 0,
+              "flightKey": "FR~2816~ ~~STN~07/19/2019 19:05~CGN~07/19/2019 21:30~~",
+              "infantsLeft": 16,
+              "operatedBy": "",
+              "segments": [
+                {
+                  "segmentNr": 0,
+                  "origin": "STN",
+                  "destination": "CGN",
+                  "flightNumber": "FR 2816",
+                  "time": [
+                    "2019-07-19T19:05:00",
+                    "2019-07-19T21:30:00"
+                  ],
+                  "timeUTC": [
+                    "2019-07-19T18:05:00Z",
+                    "2019-07-19T19:30:00Z"
+                  ],
+                  "duration": "01:25"
+                }
+              ],
+              "flightNumber": "FR 2816",
+              "time": [
+                "2019-07-19T19:05:00",
+                "2019-07-19T21:30:00"
+              ],
+              "timeUTC": [
+                "2019-07-19T18:05:00Z",
+                "2019-07-19T19:30:00Z"
+              ],
+              "duration": "01:25"
+            }
+          ]
+        },
+        {
+          "dateOut": "2019-07-20T00:00:00",
+          "flights": [
+            {
+              "faresLeft": 1,
+              "flightKey": "FR~2814~ ~~STN~07/20/2019 07:35~CGN~07/20/2019 10:00~~",
+              "infantsLeft": 18,
+              "regularFare": {
+                "fareKey": "0~Q~ ~FR~QZ4LOW~BND4~~0~1~~X",
+                "fareClass": "Q",
+                "fares": [
+                  {
+                    "type": "ADT",
+                    "amount": 171.35,
+                    "count": 1,
+                    "hasDiscount": false,
+                    "publishedFare": 171.35,
+                    "discountInPercent": 0,
+                    "hasPromoDiscount": false
+                  }
+                ]
+              },
+              "operatedBy": "Malta Air",
+              "segments": [
+                {
+                  "segmentNr": 0,
+                  "origin": "STN",
+                  "destination": "CGN",
+                  "flightNumber": "FR 2814",
+                  "time": [
+                    "2019-07-20T07:35:00",
+                    "2019-07-20T10:00:00"
+                  ],
+                  "timeUTC": [
+                    "2019-07-20T06:35:00Z",
+                    "2019-07-20T08:00:00Z"
+                  ],
+                  "duration": "01:25"
+                }
+              ],
+              "flightNumber": "FR 2814",
+              "time": [
+                "2019-07-20T07:35:00",
+                "2019-07-20T10:00:00"
+              ],
+              "timeUTC": [
+                "2019-07-20T06:35:00Z",
+                "2019-07-20T08:00:00Z"
+              ],
+              "duration": "01:25"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "serverTimeUTC": "2019-07-17T13:33:38.459Z"
+}
