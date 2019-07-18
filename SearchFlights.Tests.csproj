@@ -11,11 +11,19 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Remove="SampleJSON\Flight_Query_Mutliple_Results.txt" />
+    <None Remove="SampleJSON\Flight_Query_No_Results.txt" />
     <None Remove="SampleJSON\invalid_JSON.txt" />
     <None Remove="valid_JSON.txt" />
   </ItemGroup>
 
   <ItemGroup>
+    <Content Include="SampleJSON\Flight_Query_Mutliple_Results.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SampleJSON\Flight_Query_No_Results.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="SampleJSON\invalid_JSON.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

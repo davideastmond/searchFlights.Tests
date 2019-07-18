@@ -1,0 +1,134 @@
+﻿{
+termsOfUse: "https://www.ryanair.com/ie/en/corporate/terms-of-use=AGREED",
+currency: "HUF",
+currPrecision: 0,
+trips: [
+{
+origin: "BUD",
+originName: "Budapest T2B",
+destination: "LIS",
+destinationName: "Lisbon T2",
+dates: [
+{
+dateOut: "2019-11-04T00:00:00.000",
+flights: [ ]
+},
+{
+dateOut: "2019-11-05T00:00:00.000",
+flights: [
+{
+faresLeft: -1,
+flightKey: "FR~8859~ ~~BUD~11/05/2019 11:25~LIS~11/05/2019 14:15~~",
+infantsLeft: 18,
+regularFare: {
+fareKey: "0~V~ ~FR~VZ10LOW~BO10~~0~1~~X",
+fareClass: "V",
+fares: [
+{
+type: "ADT",
+amount: 23806,
+count: 1,
+hasDiscount: false,
+publishedFare: 23806,
+discountInPercent: 0,
+hasPromoDiscount: false
+}
+]
+},
+operatedBy: "",
+segments: [
+{
+segmentNr: 0,
+origin: "BUD",
+destination: "LIS",
+flightNumber: "FR 8859",
+time: [
+"2019-11-05T11:25:00.000",
+"2019-11-05T14:15:00.000"
+],
+timeUTC: [
+"2019-11-05T10:25:00.000Z",
+"2019-11-05T14:15:00.000Z"
+],
+duration: "03:50"
+}
+],
+flightNumber: "FR 8859",
+time: [
+"2019-11-05T11:25:00.000",
+"2019-11-05T14:15:00.000"
+],
+timeUTC: [
+"2019-11-05T10:25:00.000Z",
+"2019-11-05T14:15:00.000Z"
+],
+duration: "03:50"
+}
+]
+},
+{
+dateOut: "2019-11-06T00:00:00.000",
+flights: [ ]
+},
+{
+dateOut: "2019-11-07T00:00:00.000",
+flights: [
+{
+faresLeft: 1,
+flightKey: "FR~8859~ ~~BUD~11/07/2019 19:15~LIS~11/07/2019 22:05~~",
+infantsLeft: 18,
+regularFare: {
+fareKey: "0~H~ ~FR~HLDIS~ZZZY~~0~1~~X",
+fareClass: "H",
+fares: [
+{
+type: "ADT",
+amount: 15302,
+count: 1,
+hasDiscount: true,
+publishedFare: 16969,
+discountInPercent: 10,
+hasPromoDiscount: false
+}
+]
+},
+operatedBy: "",
+segments: [
+{
+segmentNr: 0,
+origin: "BUD",
+destination: "LIS",
+flightNumber: "FR 8859",
+time: [
+"2019-11-07T19:15:00.000",
+"2019-11-07T22:05:00.000"
+],
+timeUTC: [
+"2019-11-07T18:15:00.000Z",
+"2019-11-07T22:05:00.000Z"
+],
+duration: "03:50"
+}
+],
+flightNumber: "FR 8859",
+time: [
+"2019-11-07T19:15:00.000",
+"2019-11-07T22:05:00.000"
+],
+timeUTC: [
+"2019-11-07T18:15:00.000Z",
+"2019-11-07T22:05:00.000Z"
+],
+duration: "03:50"
+}
+]
+},
+{
+dateOut: "2019-11-08T00:00:00.000",
+flights: [ ]
+}
+]
+}
+],
+serverTimeUTC: "2019-07-18T18:48:33.999Z"
+}
