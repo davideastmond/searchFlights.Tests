@@ -37,7 +37,7 @@ namespace SearchFlights.Tests
     [Fact]
     public void ProcessResults_NoFlightsAvailable_ReturnsFalseAndNull() {
       // Arrange
-      /* Make up test input that corresponds to the query from flight_query_multiple_results.txt 
+      /* Make up test input that corresponds to the query from flight_query_no_results.txt 
        * Departure Date: (2019-11-04) 
        * BUD to LIS
        * Adults: 1
